@@ -1,0 +1,14 @@
+var myname = "prem";
+console.log(myname);
+var age = 21;
+console.log(age);
+var degree = true;
+console.log(degree);
+var address = [236, "hudco colony"];
+console.log(address);
+var numbers = [10, 20, 30];
+console.log(numbers);
+var job = 21;
+console.log(job);
+var msg = "hello unknown";
+console.log(msg);
